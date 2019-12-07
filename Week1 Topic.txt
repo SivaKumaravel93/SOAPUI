@@ -1,0 +1,32 @@
+Day 1 
+
+
+1. What is web services 
+
+2. Different type of WS
+
+3. difference between soap and REST
+
+4. Significance of Web services
+
+5. What is WSDL
+
+6. How to import wsdl
+
+7. Data through test case, test suite, project 
+
+8. Data from CSV
+9. Assertion - Xpath, response code
+
+10. How to run test step from groovy
+
+11. Set property method
+12. Global properties
+
+Day 2:
+
+1. Property transfer through UI and groovy
+
+2. Data from CSV - array, split,while loop, lead line, file reader, buffered reader
+
+3. Xmlholder, expand, get node value
